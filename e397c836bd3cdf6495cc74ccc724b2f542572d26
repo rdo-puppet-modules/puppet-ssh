@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Thu, 12 Nov 2015 04:58:56 +0100
+Reviewed-on: https://review.gerrithub.io/251968
+Project: rdo-puppet-modules/puppet-ssh
+Branch: refs/heads/recomb-original-master-af12b0e77509bee32e7728e09cfcdfa031454515
